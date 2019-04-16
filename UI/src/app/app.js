@@ -9,6 +9,8 @@ var localStorageSupported = (function () {
     }
 })();
 
+var subdir='hygieia-ui';
+
 (function () {
     'use strict';
 
